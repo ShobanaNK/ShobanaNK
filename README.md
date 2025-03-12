@@ -36,12 +36,6 @@
 
 ---
 
-## 💡 **GitHub Stats**  
-📊 My contribution graph reflects my work on private repositories as well!  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shobanaNK&show_icons=true&theme=tokyonight)  
-
----
-
 ## 💼 **Where to Find Me**  
 🔗 **LinkedIn:** [linkedin.com/in/shobana-navaneetha-krishnan](https://www.linkedin.com/in/shobana-navaneetha-krishnan-39a62227/)  
 🔗 **GitHub:** [github.com/shobanaNK](https://github.com/shobanaNK)  
