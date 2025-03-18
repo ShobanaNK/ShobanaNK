@@ -33,6 +33,7 @@
 🔹 **Library Assistant using open ai API to help choose books to read.** – [GitHub Repo](https://github.com/ShobanaNK/LibraryAssistant)  
 🔹 **Simple Semantic Search Application to search books by context.** – [GitHub Repo](https://github.com/ShobanaNK/LibrarySearch)  
 🔹 **ML model to predict co-morbid conditions in patients.** – [GitHub Repo](https://github.com/ShobanaNK/Predict_Comorbidity)  
+🔹 **Application to choose suitable campaign by predicting the age of the device user.** – [GitHub Repo](https://github.com/ShobanaNK/campaign-selection)  
 
 ---
 
