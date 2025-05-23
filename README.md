@@ -18,7 +18,7 @@
 ---
 
 ## 💡 **My Passion & Interests**  
-🔬 **HealthTech & Data-Driven Insights**  
+🔬 **HealthTech, AI & Data-Driven Insights**  
 - Fascinated by **how technology transforms healthcare** and **improves patient outcomes**.  
 - Experience in **US Healthcare, Population Health Management (PHM), OpenEHR, and Clinical Data Pipelines**.  
 - Interested in **data-driven decision-making**, predictive analytics, and **leveraging data for healthcare innovations**.  
